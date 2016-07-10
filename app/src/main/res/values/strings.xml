@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Openweather</string>
+    <string name="api_key">1be233ec7cc2edbb0391f48c9beed773</string>
+    <string name="search_hint">Search an album...</string>
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string name="city_weather">Cities Weather</string>
+
+    <string name="fetching">Loading data</string>
+    <string name="fetchingerror">Unable to load, please try again</string>
+    <string name="nointenet">No network connection, please try again</string>
+</resources>
